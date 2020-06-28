@@ -19,6 +19,6 @@
 ## Booking Confirmed 
 ![alt text](https://raw.githubusercontent.com/GeorgeT01/ars/master/images/booking%20confirmed.png)
 ## Cancel reservation form 
-![alt text](https://raw.githubusercontent.com/GeorgeT01/ars/master/images/cancel%20reservation%form.png)
+![alt text](https://raw.githubusercontent.com/GeorgeT01/ars/master/images/cancel%20reservation%20form.png)
 ## Sign up form 
 ![alt text](https://raw.githubusercontent.com/GeorgeT01/ars/master/images/signup%20form.png)
