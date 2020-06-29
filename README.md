@@ -1,4 +1,5 @@
 # Air Ticket Reservation System (ARS) My Diploma Project 2017
+Air Ticket Reservation System With customized admin panel [ARS-Admin](https://github.com/GeorgeT01/ars-admin) 
 
 ## Use Case Digaram
 ![alt text](https://raw.githubusercontent.com/GeorgeT01/ars/master/images/usecaseimg.png)
