@@ -1,5 +1,6 @@
 # Air Ticket Reservation System (ARS) My Diploma Project 2017
 Air Ticket Reservation System in PHP With customized admin panel [ARS-Admin](https://github.com/GeorgeT01/ars-admin) using C# winforms
+with embedded [Stripe](https://stripe.com/) payment
 
 ## Use Case Digaram
 ![alt text](https://raw.githubusercontent.com/GeorgeT01/ars/master/images/usecaseimg.png)
